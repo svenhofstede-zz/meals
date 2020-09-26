@@ -1,8 +1,122 @@
 [
-    {"name": "frutje stoofvlees"   
+    {
+        "name": "Hello fresh Pasta",
+        "default_number_of_people": 4,
+        "ingredients": [
+            {
+                "name": "ui",
+                "amount": 2,
+                "increment": 0.5,
+                "unit": "x"
+            },
+            {
+                "name": "knoflook",
+                "amount": 3,
+                "increment": 1,
+                "unit": "teen"
+            },
+            {
+                "name": "cherrytomaten",
+                "amount": 500,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "pasta",
+                "amount": 500,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "kipgehakt",
+                "amount": 400,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "paprika poeder",
+                "amount": 4,
+                "increment": 1,
+                "unit": "tl"
+            },
+            {
+                "name": "kookroom",
+                "amount": 200,
+                "increment": 50,
+                "unit": "ml"
+            },
+            {
+                "name": "spinazie",
+                "amount": 400,
+                "increment": 100,
+                "unit": "g"
+            }
+        ]
     },
-    {"name": "smoske braadworst"   
-    },
-    {"name": "kebabke look"   
+    {
+        "name": "Pompoen curry",
+        "default_number_of_people": 4,
+        "ingredients": [
+            {
+                "name": "pompoen",
+                "amount": 500,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "ui",
+                "amount": 3,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "curry pasta",
+                "amount": 4,
+                "increment": 1,
+                "unit": "lepels"
+            },
+            {
+                "name": "tomaten in blik",
+                "amount": 400,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "kokosmelk",
+                "amount": 400,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "naan",
+                "amount": 4,
+                "increment": 2,
+                "unit": "x"
+            },
+            {
+                "name": "kookroom",
+                "amount": 200,
+                "increment": 50,
+                "unit": "ml"
+            },
+            {
+                "name": "linzen",
+                "amount": 400,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "spinazie",
+                "amount": 200,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "kokosyoghurt",
+                "amount": 300,
+                "increment": 100,
+                "unit": "ml"
+            }
+        ]
     }
 ]
