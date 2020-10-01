@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "svenhofstede.meals",
   "appName": "meals",
   "bundledWebRuntime": false,
   "npmClient": "npm",

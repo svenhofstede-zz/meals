@@ -6,7 +6,7 @@
             {
                 "name": "ui",
                 "amount": 2,
-                "increment": 0.5,
+                "increment": 1,
                 "unit": "x"
             },
             {
@@ -117,6 +117,84 @@
                 "increment": 100,
                 "unit": "ml"
             }
+        ]
+    },
+    {
+        "name": "Chipotle burrito",
+        "default_number_of_people": 4,
+        "ingredients": [
+            {
+                "name": "rice",
+                "amount": 500,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "paprika",
+                "amount": 3,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "ui",
+                "amount": 6,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "oregano",
+                "amount": 0.5,
+                "increment": 0.5,
+                "unit": "lepel"
+            },
+            {
+                "name": "tomaat",
+                "amount": 4,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "jalapeno",
+                "amount": 1,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "citroen",
+                "amount": 1,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "limoen",
+                "amount": 2,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "avocado",
+                "amount": 4,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "sla",
+                "amount": 200,
+                "increment": 100,
+                "unit": "g"
+            },
+            {
+                "name": "burrito",
+                "amount": 12,
+                "increment": 1,
+                "unit": "x"
+            },
+            {
+                "name": "koriander poeder",
+                "amount": 1,
+                "increment": 1,
+                "unit": "x"
+            }            
         ]
     }
 ]
